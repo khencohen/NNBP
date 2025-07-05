@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: qubap
+Version: 0.0.0
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: qiskit
+Requires-Dist: qiskit_aer
